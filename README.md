@@ -10,9 +10,9 @@ python manage.py runserver
 ```
 
 You can test api endpoint with postman or browser
-http://127.0.0.1:8000/inventory
-http://127.0.0.1:8000/api/inventory
-http://127.0.0.1:8000/inventory/1
+- http://127.0.0.1:8000/inventory
+- http://127.0.0.1:8000/api/inventory
+- http://127.0.0.1:8000/inventory/1
 
 ## Test
 
