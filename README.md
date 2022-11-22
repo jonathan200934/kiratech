@@ -19,3 +19,10 @@ You can test api endpoint with postman or browser
 ```sh
 python manage.py test
 ```
+
+## Admin
+
+```sh
+username: admin
+password: admin123
+```
